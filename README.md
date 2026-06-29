@@ -1,7 +1,5 @@
 # My Leetcode Journey
 
-## Disclaimer
-
 All solutions in this repository are solved by me as part of my learning journey. The primary goal of this repository is to maintain a personal collection of my solutions and track my progress over time, rather than provide the most optimal or shortest implementations. As a result, some solutions may not be the most efficient in terms of time or space complexity. There may be better or more elegant approaches to the same problem, and I may revisit and improve existing solutions as I continue learning new algorithms, data structures, and problem-solving techniques. This repository is intended to serve as a record of my coding practice, and I hope it may also be useful to others who are learning.
 
 ## Folder Structure
